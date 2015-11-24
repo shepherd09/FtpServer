@@ -1,5 +1,7 @@
 # PHP-FtpServer-Support-SSL
 
+应用实例：http://share.realdatamed.com
+
 <b>实现</b>
 
 本服务器使用swoole扩展实现，运行在CentOS下。实现FTP的主要功能。
